@@ -1,0 +1,33 @@
+*{
+    padding:0%;
+    font-size: 20px;
+    margin:0;
+    border-width:0;
+    box-sizing: border-box;
+   }
+   
+    .container{
+           padding-top:20px;
+           width:50%;
+         }
+         .nav{
+           background-color:#F5190F;
+         }
+         #color-h5{
+             text-align: center; color:white; background-color:#660066; font-family: initial;
+         }
+         #botoes{
+             margin-left: 230px;
+         }
+         body {
+             background-color:#EBC2CD;
+         }
+         #footer{
+             text-align: center;
+              background-color:#EBC2CD;
+         }
+         label{
+             font-family: sans-serif;
+         }
+   
+         
